@@ -1,0 +1,2 @@
+class MsgCreateInput {}
+export { MsgCreateInput };
