@@ -1,0 +1,18 @@
+{
+  "dataServiceGeneratorVersion": "0.9.0",
+  "appInfo": {
+    "name": "water_sys",
+    "description": "",
+    "version": "4o0ydva8",
+    "id": "ckp4rxe2y21581bs6ovqxg9ke",
+    "url": "https://app.amplication.com/ckp4rxe2y21581bs6ovqxg9ke",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "ckp4rxe2y21581bs6ovqxg9ke"
+    }
+  }
+}
